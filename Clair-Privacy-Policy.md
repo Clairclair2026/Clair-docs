@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+---
+
 # Clair 隐私政策
 
 **更新日期：** [2026年4月21日]  
