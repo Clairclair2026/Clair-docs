@@ -1,3 +1,8 @@
+---
+layout: default
+title: Terms of service
+---
+
 # Clair 用户协议
 
 **更新日期：** [2026年4月21日]  
