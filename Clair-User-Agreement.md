@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Terms of service
+title: User Agreement
 ---
 
 # Clair 用户协议
